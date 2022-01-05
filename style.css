@@ -1,3 +1,37 @@
-h1 {
-    color: pink;
+
+body {
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+font-family: 'Source Sans Pro', sans-serif;
+}
+.head-section {
+    display: flex;
+    background-image: url(images/header-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    padding: 40px 5%;
+
+
+}
+.heading-special {
+    color: gold;
+}
+h3 {
+    color: rgb(221, 185, 117);
+}
+.content-width {
+    width: 50%;
+}
+.content-width img {
+    width: 70%;
+}
+.font-color {
+    color: #fff;
+}
+.link-button a {
+    color:#fff;
+    background-image: linear-gradient(orange, blue);
+    padding: 5px 10px;
+    text-decoration: none;
+    border-radius: 5%;   
 }
