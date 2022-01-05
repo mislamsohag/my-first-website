@@ -52,3 +52,12 @@ h3 {
     border-radius: 20px;
     border: 2px blueviolet dotted;
 }
+.contact-section {
+    margin-top: 80px;
+    padding: 0px 5%;
+    background-color: grey;
+}
+.contact-content {
+    display: flex;
+    justify-content: space-between;
+}
