@@ -54,10 +54,16 @@ h3 {
 }
 .contact-section {
     margin-top: 80px;
-    padding: 0px 5%;
+    padding: 20px 5%;
     background-color: grey;
+    
 }
 .contact-content {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-between;    
+}
+.shadow {
+    border-radius: 10px;
+    padding: 10px 50px;
+    box-shadow: 10px 10px 50px white;
 }
